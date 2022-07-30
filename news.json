@@ -26,6 +26,19 @@
   "description": "Inglaterra vence Suécia com golaço de calcanhar e vai à final",
    "image": "https://suellenmuniz.github.io/soocer-news-api/image/2.png.jpg"
    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/26/euro-feminina-inglaterra-vence-suecia-com-golaco-de-calcanhar-e-vai-a-final.ghtml",
-   }
-  
-]
+   },
+  {
+  "id": 2,
+  "title": "Copa América", 
+  "description": "Em busca do oitavo título, Brasil encara a Colômbia na decisão da Copa América feminina",
+   "image": "https://suellenmuniz.github.io/soocer-news-api/image/2.png.jpg"
+   "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/30/em-busca-do-oitavo-titulo-brasil-encara-a-colombia-na-decisao-da-copa-america-feminina.ghtml",
+  },
+{
+  "id": 2,
+  "title": "Me chamaram de Macaca", 
+  "description": "Jogadora relata racismo em jogo contra Sport, e árbitra registra na súmula: 'Me chamaram de macaca'",
+   "image": "https://suellenmuniz.github.io/soocer-news-api/image/2.png.jpg"
+   "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/07/04/jogadora-relata-racismo-em-jogo-contra-sport-e-arbitra-registra-na-sumula-me-chamaram-de-macaca.ghtml",
+}
+  ]
